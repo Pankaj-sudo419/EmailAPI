@@ -51,7 +51,7 @@ public class EmailService {
             @Override
             protected javax.mail.PasswordAuthentication getPasswordAuthentication() {
                 // TODO Auto-generated method stub
-                return new javax.mail.PasswordAuthentication("karl98perfect@gmail.com","zxfxupenpiwavauo");
+                return new javax.mail.PasswordAuthentication("karl98perfect@gmail.com","Enter your Temporarily generated password");
             }
 
         });
